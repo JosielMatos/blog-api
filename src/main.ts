@@ -7,7 +7,7 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
     .setTitle('Median')
-    .setDescription('The Median API description')
+    .setDescription('API for blog posts')
     .setVersion('0.1')
     .build();
 
